@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+.purple{
+    height:200px;
+    width:200px;
+    background-color: blueviolet;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border-radius: 20%;
+}
+.orange{
+    height:200px;
+    width:200px;
+    background-color:orange;
+     margin-left: 50px;
+     border-radius: 20%;
+}
+.blue{
+    height:200px;
+    width:200px;
+    background-color: rgb(104, 234, 241);
+     margin-left: 50px;
+     margin-bottom: 50px;
+     border-radius: 20%;
+}
+.pink{
+    height:200px;
+    width:200px;
+    background-color: rgb(226, 43, 189);
+     margin-left: 50px;
+     border-radius: 20%;
+}
+.main-container{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.flash{
+    background-color: white;
+}
+.gameend{
+    background-color: red;
+}
